@@ -56,15 +56,23 @@
 		6994DC2D26E015150086C024 /* meals */ = {
 			isa = PBXGroup;
 			children = (
+				6994DC4226E0156C0086C024 /* ViewControllers */,
 				6994DC2E26E015150086C024 /* AppDelegate.swift */,
 				6994DC3026E015150086C024 /* SceneDelegate.swift */,
-				6994DC3226E015150086C024 /* ViewController.swift */,
 				6994DC3426E015150086C024 /* Main.storyboard */,
 				6994DC3726E015190086C024 /* Assets.xcassets */,
 				6994DC3926E015190086C024 /* LaunchScreen.storyboard */,
 				6994DC3C26E015190086C024 /* Info.plist */,
 			);
 			path = meals;
+			sourceTree = "<group>";
+		};
+		6994DC4226E0156C0086C024 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				6994DC3226E015150086C024 /* ViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
